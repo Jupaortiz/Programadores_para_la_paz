@@ -1,0 +1,9 @@
+Algoritmo Semana 1:
+1. Inicio
+2. Leer la información del cuestionario
+3. Analizar cada pregunta
+4. Seleccionar la respuesta correcta
+5. Guardar las respuestas en el archivo preguntas-semana1.txt
+6. Escribir una reflexión en el archivo reflexion-semana1.txt
+7. Redactar el algoritmo en el archivo algoritmo-semana1.txt
+8. Fin
