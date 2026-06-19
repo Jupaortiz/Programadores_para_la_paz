@@ -1,0 +1,10 @@
+Aprender a usar la terminal es fundamental porque nos permite interactuar de manera directa con el sistema operativo.  
+A través de comandos simples podemos movernos entre carpetas, crear archivos y organizar nuestro trabajo sin depender de interfaces gráficas.  
+Esto hace que el proceso sea más rápido y eficiente, especialmente cuando trabajamos en proyectos de programación o administración de sistemas.  
+Además, conocer la terminal nos ayuda a comprender mejor cómo funciona el sistema y nos da mayor control sobre nuestras acciones.  
+En el contexto de Git y GitHub, la terminal es indispensable para registrar cambios y mantener un flujo de trabajo ordenado.  
+También fomenta la disciplina de documentar cada paso y facilita la colaboración con otros compañeros.  
+Aunque al inicio puede parecer difícil, con la práctica se convierte en una herramienta poderosa y sencilla.  
+Dominar la terminal nos prepara para enfrentar retos más avanzados en el mundo de la tecnología.  
+Por eso considero que su aprendizaje es clave para cualquier persona que quiera desarrollarse en el ámbito digital.  
+En conclusión, la terminal no solo es útil, sino que representa un paso hacia la autonomía y la profesionalización en informática.

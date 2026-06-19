@@ -1,0 +1,10 @@
+pwd        # Muestra la ubicación actual en el sistema de carpetas
+ls         # Lista los archivos y carpetas dentro del directorio actual
+cd         # Permite moverse entre carpetas
+mkdir      # Crea una carpeta nueva
+touch      # Crea un archivo vacío
+echo       # Escribe texto dentro de un archivo
+cat        # Muestra el contenido de un archivo
+git add .  # Añade los cambios al área de preparación
+git commit -m "Actividad semana 2"  # Registra los cambios con un mensaje
+git push   # Envía los cambios al repositorio remoto
