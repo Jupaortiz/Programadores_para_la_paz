@@ -1,0 +1,8 @@
+Repositorio:
+Es el espacio o carpeta virtual donde se almacenan de forma organizada todos los archivos, carpetas y recursos de un proyecto de software. Su función principal es llevar el control absoluto de cada modificación, permitiendo mantener un historial estructurado de la evolución del código a lo largo del tiempo.
+
+Commit:
+Es una confirmación o "instantánea" que guarda el estado exacto de los archivos en un momento específico dentro del historial del repositorio. Cada commit funciona como un punto de restauración seguro que incluye un mensaje descriptivo, lo que permite identificar con precisión qué cambios se hicieron y quién los realizó.
+
+Push:
+Es la acción y el comando que se utiliza para enviar y subir todos los commits guardados localmente hacia un repositorio remoto, como GitHub. Este paso es fundamental en el desarrollo de software porque permite actualizar el proyecto en la nube, asegurar el código ante cualquier fallo local y compartir los avances con el resto del equipo.
