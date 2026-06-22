@@ -1,0 +1,7 @@
+Al probar las rutas en el servidor, ocurre lo siguiente en cada caso:
+
+1. Al acceder a http://localhost:3000 (Ruta raíz): El navegador muestra el mensaje "Servidor activo", lo que confirma que Express está levantado correctamente y respondiendo en el puerto 3000.
+
+2. Al acceder a http://localhost:3000/saludo: El servidor responde mostrando en pantalla el texto estático "Hola comunidad", simulando una respuesta general para un grupo de usuarios.
+
+3. Al acceder a http://localhost:3000/mensaje/juan: El servidor lee el parámetro dinámico de la URL (:nombre) y responde con un saludo personalizado que dice "Hola juan". Si se cambia "juan" por cualquier otro nombre en la barra de direcciones, el mensaje se actualiza automáticamente con ese nuevo valor.
