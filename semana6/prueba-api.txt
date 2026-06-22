@@ -1,0 +1,13 @@
+Al enviar una petición HTTP de tipo POST a la ruta http://localhost:3000/registro con un cuerpo JSON conteniendo las propiedades "nombre" y "mensaje", el servidor Express procesa la información gracias al middleware express.json() y extrae los valores usando req.body.
+
+La respuesta que devuelve el servidor es un objeto estructurado en formato JSON con un código de estado de éxito, mostrando el siguiente contenido:
+
+{
+      "estado": "Datos recibidos",
+        "nombre": "Maria",
+          "mensaje": "Hola comunidad"
+}
+
+Esto confirma que el backend no solo recibe la información de forma correcta, sino que es capaz de procesar variables dinámicas y mapearlas en una respuesta limpia.
+
+}
