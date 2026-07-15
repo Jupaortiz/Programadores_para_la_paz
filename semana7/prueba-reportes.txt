@@ -1,0 +1,7 @@
+Primero se ejecuta la ruta POST /reportes enviando un objeto JSON con la información del reporte (por ejemplo: {"tipo":"infraestructura","descripcion":"Hueco en la calle"}). 
+El servidor recibe este objeto y lo agrega al arreglo en memoria llamado "reportes".
+
+Después, al consultar la ruta GET /reportes, el servidor devuelve la lista completa de reportes registrados. 
+En este caso, aparecerá el reporte que acabamos de enviar junto con los demás que se hayan agregado previamente.
+
+En conclusión, cada vez que se registra un nuevo reporte con POST, este se guarda en el arreglo, y al usar GET se pueden visualizar todos los reportes acumulados.

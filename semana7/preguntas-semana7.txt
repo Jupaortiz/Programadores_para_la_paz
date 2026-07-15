@@ -1,0 +1,11 @@
+1. ¿Cuál es la principal ventaja de usar un arreglo (array) en programación?
+Respuesta: b) Permite almacenar múltiples valores en una sola variable.
+
+2. ¿Qué método HTTP se utiliza para consultar información en una API?
+Respuesta: a) GET
+
+3. ¿Qué método HTTP se utiliza para registrar o enviar nueva información a una API?
+Respuesta: b) POST
+
+4. ¿Cuál es el propósito principal de una API?
+Respuesta: c) Facilitar la comunicación entre diferentes aplicaciones o sistemas.

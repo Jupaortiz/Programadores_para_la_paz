@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "infraestructura",
+  "descripcion": "Hueco grande en la calle principal que dificulta el tránsito de vehículos."
+}
+
+Ejemplo 2:
+{
+  "tipo": "ambiente",
+  "descripcion": "Acumulación de basura en el parque del barrio que afecta la salud de los vecinos."
+}
