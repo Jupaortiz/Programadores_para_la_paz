@@ -1,0 +1,10 @@
+Las metodologías ágiles permiten organizar el trabajo comunitario de manera más clara y eficiente, ya que ayudan a priorizar tareas y enfocarse en lo más importante primero.  
+El uso de un backlog facilita la trazabilidad y asegura que las necesidades de la comunidad estén registradas y atendidas en orden de relevancia.  
+Las iteraciones cortas permiten entregar resultados parciales y útiles, lo que genera confianza y mantiene la participación activa.  
+La automatización con herramientas como n8n reduce el esfuerzo manual y asegura que las notificaciones lleguen a tiempo.  
+Telegram se convierte en un canal de coordinación accesible y rápido, ideal para convocar y mantener informada a la comunidad.  
+Al integrar estas herramientas se logra una comunicación más fluida y transparente.  
+Además, se evita la pérdida de información y se fortalece la responsabilidad compartida.  
+La combinación de agilidad, automatización y canales comunitarios mejora la organización, fomenta la colaboración y facilita el seguimiento de los procesos.  
+Esto contribuye a que la comunidad se sienta más involucrada y empoderada en la toma de decisiones.  
+En conclusión, estas prácticas fortalecen la participación ciudadana y hacen más sostenible cualquier iniciativa tecnológica comunitaria.

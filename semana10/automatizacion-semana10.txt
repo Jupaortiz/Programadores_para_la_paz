@@ -1,0 +1,15 @@
+Evento que activa el flujo:
+Nuevo reporte registrado en el sistema comunitario.
+
+Acción:
+Enviar un mensaje automático a Telegram.
+
+Mensaje que se enviaría:
+"Nuevo reporte recibido. Revisar sistema."
+
+Información que no debe enviarse por seguridad:
+- Nombres completos
+- Documentos de identidad
+- Direcciones
+- Teléfonos
+- Claves o datos sensibles

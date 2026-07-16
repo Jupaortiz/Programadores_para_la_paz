@@ -1,0 +1,11 @@
+Tareas que haría primero:
+1. Registrar una incidencia para dejar evidencia del caso.
+2. Recibir una alerta en Telegram cuando se registre un nuevo reporte.
+
+Razón:
+Son las más importantes porque sin evidencia no hay seguimiento, y la alerta inmediata permite coordinar la respuesta de manera rápida y efectiva.
+
+Definición de “terminado”:
+- La tarea funciona correctamente.
+- Fue probada y validada.
+- Quedó registrada en Git con su respectivo commit.
