@@ -1,0 +1,5 @@
+1. Usar contraseñas seguras y únicas para cada cuenta de la plataforma.
+2. Mantener actualizado el software y aplicar parches de seguridad regularmente.
+3. Restringir el acceso a la información sensible solo a usuarios autorizados.
+4. Realizar copias de seguridad periódicas de los datos comunitarios.
+5. Educar a los miembros de la comunidad sobre buenas prácticas digitales y prevención de fraudes.

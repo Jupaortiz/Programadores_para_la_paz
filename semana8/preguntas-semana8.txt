@@ -1,0 +1,11 @@
+1. ¿Cuál es una característica principal de los sistemas operativos de código abierto como Linux?
+Respuesta: b) El código fuente está disponible para que cualquiera lo use y modifique.
+
+2. ¿Qué comando en Linux muestra información sobre el sistema operativo y el kernel?
+Respuesta: a) uname -a
+
+3. ¿Qué comando en Linux indica el usuario actual que está ejecutando la sesión?
+Respuesta: c) whoami
+
+4. ¿Cuál de las siguientes es una práctica esencial de seguridad digital?
+Respuesta: d) Usar contraseñas seguras y únicas.
