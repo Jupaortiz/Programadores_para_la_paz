@@ -1,0 +1,16 @@
+Automatización básica en la plataforma:
+
+1. Evento inicial:
+Cuando un ciudadano registra un nuevo apoyo en una causa.
+
+2. Acción automática:
+El sistema envía una notificación a un canal de Telegram o correo electrónico de los administradores.
+
+3. Contenido del mensaje:
+Incluye el nombre de la causa, el número total de apoyos acumulados y la fecha del nuevo registro.
+
+4. Datos sensibles:
+No se comparten correos ni información personal de los ciudadanos, solo datos generales de la causa.
+
+5. Beneficio:
+La automatización permite que los responsables estén informados en tiempo real, sin necesidad de revisar manualmente la base de datos.

@@ -1,0 +1,17 @@
+Entidad 1: Causa
+- id_causa (clave primaria)
+- titulo
+- descripcion
+- fecha_creacion
+- estado
+
+Entidad 2: Apoyo
+- id_apoyo (clave primaria)
+- nombre_ciudadano
+- correo_ciudadano
+- fecha_apoyo
+- id_causa (clave foránea)
+
+Relación:
+Una causa puede recibir múltiples apoyos.
+Cada apoyo pertenece a una única causa.
