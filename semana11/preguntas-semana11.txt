@@ -1,0 +1,4 @@
+Pregunta 1: Una base de datos sirve para organizar y almacenar información de manera estructurada.  
+Pregunta 2: La autenticación permite verificar la identidad de un usuario antes de darle acceso.  
+Pregunta 3: Una interfaz básica facilita que los usuarios interactúen con la plataforma de forma sencilla.  
+Pregunta 4: La trazabilidad asegura que las acciones y datos registrados puedan ser seguidos y verificados.  

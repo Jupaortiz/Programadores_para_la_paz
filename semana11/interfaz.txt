@@ -1,0 +1,18 @@
+Interfaz básica de la plataforma:
+
+1. Pantalla de inicio:
+- Botón para iniciar sesión.
+- Botón para registrarse como nuevo usuario.
+
+2. Panel principal (una vez autenticado):
+- Opción para registrar un nuevo reporte con campos de fecha y descripción.
+- Lista de reportes existentes con su estado (pendiente, atendido).
+- Botón para consultar detalles de cada reporte.
+
+3. Sección de coordinación:
+- Notificaciones básicas que se envían a Telegram cuando se crea un nuevo reporte.
+- Indicador de cantidad de reportes activos.
+
+4. Diseño:
+- Interfaz sencilla, con botones claros y textos breves.
+- Accesible desde dispositivos móviles y escritorio.

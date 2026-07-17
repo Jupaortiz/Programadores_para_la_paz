@@ -1,0 +1,16 @@
+Entidad 1: Ciudadano
+- id_ciudadano (clave primaria)
+- nombre
+- correo
+- comunidad
+
+Entidad 2: Reporte
+- id_reporte (clave primaria)
+- fecha
+- descripcion
+- estado
+- id_ciudadano (clave foránea)
+
+Relación:
+Un ciudadano puede registrar varios reportes.
+Cada reporte pertenece a un único ciudadano.

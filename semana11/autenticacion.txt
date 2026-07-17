@@ -1,0 +1,18 @@
+Autenticación básica en la plataforma:
+
+1. Login:
+El usuario ingresa su correo y contraseña en un formulario simple.
+El sistema verifica las credenciales contra la base de datos.
+Si son correctas, se genera una sesión o token temporal para permitir el acceso.
+
+2. Rutas protegidas:
+Algunas funciones, como registrar un reporte o consultar información, solo pueden ser usadas por usuarios autenticados.
+El sistema valida que el token o sesión esté activa antes de permitir el acceso.
+
+3. Datos sensibles:
+Nunca se deben guardar contraseñas en texto plano.
+Las contraseñas deben almacenarse en la base de datos usando un algoritmo de hash seguro.
+No se deben publicar ni compartir claves de API, tokens de Telegram, ni información personal como documentos de identidad o direcciones.
+
+Conclusión:
+La autenticación asegura que solo usuarios autorizados puedan acceder a las funciones críticas de la plataforma, protegiendo la información comunitaria.
